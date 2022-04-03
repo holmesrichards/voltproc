@@ -5,7 +5,7 @@
    viewBox="0 0 8.5 11"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   inkscape:version="1.1.2 (1:1.1+202202050950+0a00cf5339)"
    sodipodi:docname="voltproc_panel.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -1242,31 +1242,31 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.85"
-     inkscape:cx="327.05882"
-     inkscape:cy="611.17647"
+     inkscape:cx="503.52941"
+     inkscape:cy="614.11765"
      inkscape:document-units="mm"
      inkscape:current-layer="layer16"
      showgrid="false"
      units="in"
      inkscape:window-width="1581"
-     inkscape:window-height="1020"
+     inkscape:window-height="1013"
      inkscape:window-x="6"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:snap-midpoints="true"
-     inkscape:snap-others="true"
+     inkscape:snap-others="false"
      inkscape:snap-grids="true"
-     inkscape:snap-nodes="false"
+     inkscape:snap-nodes="true"
      inkscape:snap-object-midpoints="true"
-     inkscape:snap-center="true"
-     inkscape:snap-text-baseline="false"
+     inkscape:snap-center="false"
+     inkscape:snap-text-baseline="true"
      inkscape:measure-start="236.22,816.378"
      inkscape:measure-end="236.22,687.874"
      inkscape:object-paths="true"
      inkscape:document-rotation="0"
-     inkscape:snap-bbox="false"
+     inkscape:snap-bbox="true"
      inkscape:snap-bbox-edge-midpoints="true"
      inkscape:snap-smooth-nodes="true"
      inkscape:object-nodes="true"
@@ -1274,7 +1274,7 @@
      inkscape:snap-intersection-paths="false"
      inkscape:snap-global="true"
      inkscape:bbox-nodes="false"
-     inkscape:snap-bbox-midpoints="false">
+     inkscape:snap-bbox-midpoints="true">
     <inkscape:grid
        type="xygrid"
        id="grid10120"
@@ -1305,11 +1305,6 @@
        id="guide1431"
        inkscape:locked="false" />
     <sodipodi:guide
-       position="2.6574802,4.5039368"
-       orientation="1,0"
-       id="guide1435"
-       inkscape:locked="false" />
-    <sodipodi:guide
        position="1.9291339,1.5905511"
        orientation="0,-1"
        id="guide3116" />
@@ -1322,7 +1317,7 @@
        orientation="0,-1"
        id="guide3120" />
     <sodipodi:guide
-       position="4.2322831,4.3070865"
+       position="2.4606299,4.3464566"
        orientation="0,-1"
        id="guide3124" />
     <sodipodi:guide
@@ -1370,10 +1365,6 @@
        orientation="0,-1"
        id="guide11312" />
     <sodipodi:guide
-       position="4.2322831,4.5039368"
-       orientation="1,0"
-       id="guide4013" />
-    <sodipodi:guide
        position="1.968504,5.1338582"
        orientation="0,-1"
        id="guide5330" />
@@ -1405,9 +1396,9 @@
        width="2.9527559"
        id="rect2111-6"
        style="display:inline;opacity:1;vector-effect:none;fill:#ececec;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png" />
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png" />
   </g>
   <g
      inkscape:label="Standards"
@@ -2173,7 +2164,7 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Mockup"
-     style="display:inline"
+     style="display:none"
      sodipodi:insensitive="true">
     <g
        id="g4067">
@@ -3760,7 +3751,7 @@
        inkscape:export-ydpi="101.46577" />
     <g
        id="g4829"
-       transform="translate(8.5629877,1.1259855)"
+       transform="translate(8.3661377,1.091171)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -3779,7 +3770,7 @@
     </g>
     <g
        id="g4859"
-       transform="translate(10.137791,1.1305412)"
+       transform="translate(10.334641,1.0866145)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -3900,7 +3891,7 @@
        inkscape:export-ydpi="101.46577" />
     <g
        id="g4913"
-       transform="translate(8.562988,-2.4127642)"
+       transform="translate(8.3661375,-2.41732)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -3919,7 +3910,7 @@
     </g>
     <g
        id="g4919"
-       transform="translate(10.137791,-2.4082085)"
+       transform="translate(10.33464,-2.4173199)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -3935,6 +3926,40 @@
          cx="-5.9055119"
          id="circle4917"
          style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2885"
+       transform="translate(7.443693,3.9468505)">
+      <rect
+         y="2.1023629"
+         x="-4.1338596"
+         height="0.5"
+         width="0.27007875"
+         id="rect2881"
+         style="opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="0.13503937"
+         cy="2.3523629"
+         cx="-3.9988203"
+         id="circle2883"
+         style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="g2911"
+       transform="translate(7.4436931,4.7342523)">
+      <rect
+         y="2.1023629"
+         x="-4.1338596"
+         height="0.5"
+         width="0.27007875"
+         id="rect2907"
+         style="opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         r="0.13503937"
+         cy="2.3523629"
+         cx="-3.9988203"
+         id="circle2909"
+         style="opacity:1;vector-effect:none;fill:#666666;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
   </g>
   <g
@@ -3962,10 +3987,11 @@
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
-         id="tspan11372"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.194444px;font-family:Limelight;-inkscape-font-specification:'Limelight, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:3.25521e-06"
+         id="tspan6622"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:3.25521e-06"
          x="3.446116"
-         y="9.7132692">ARP</tspan></text>
+         y="9.7132692"
+         transform="translate(-9.5516421e-7,-0.47244304)" /></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -3985,13 +4011,13 @@
        inkscape:export-ydpi="101.46577"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png" />
     <flowRoot
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.249999px;line-height:0;font-family:Limelight;-inkscape-font-specification:'Limelight, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.249999px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="flowRoot3370"
        xml:space="preserve"
-       transform="matrix(1.000002,0,0,1.000002,-1.0397197e-5,0.5905456)"><flowRegion
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.249999px;font-family:Limelight;-inkscape-font-specification:'Limelight, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+       transform="matrix(1.000002,0,0,1.000002,-1.1405959e-5,0.62991373)"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.249999px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
          id="flowRegion3372"><rect
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.24999949px;font-family:Limelight;-inkscape-font-specification:'Limelight, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.24999949px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
            y="659.1496"
            x="160.63057"
            height="160.62993"
@@ -4006,29 +4032,79 @@
        xml:space="preserve" />
     <text
        xml:space="preserve"
-       style="font-size:0.194444px;line-height:1;font-family:Limelight;-inkscape-font-specification:Limelight;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#ff0000;stroke-width:0.01;stroke-linejoin:bevel;stop-color:#000000"
-       x="3.4416063"
-       y="2.232954"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;line-height:1;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#ff0000;stroke-width:0.01;stroke-linejoin:bevel;stop-color:#000000"
+       x="3.4479156"
+       y="2.193584"
        id="text3657"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577"><tspan
          sodipodi:role="line"
-         x="3.4416063"
-         y="2.232954"
-         style="font-size:0.194444px;fill:#000000;stroke-width:0.01"
+         x="3.4479156"
+         y="2.193584"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:Limelight;-inkscape-font-specification:'Limelight Bold';fill:#000000;stroke-width:0.01"
          id="tspan5448">VOLTAGE PROCESSOR</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:0.138889px;line-height:0;font-family:Limelight;-inkscape-font-specification:'Limelight, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.104167;stroke-linejoin:round;stroke-opacity:0.993004"
-       x="2.4864342"
-       y="2.7998848"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.104167;stroke-linejoin:round;stroke-opacity:0.993004"
+       x="2.486433"
+       y="2.8392529"
        id="text22851"><tspan
          sodipodi:role="line"
          id="tspan22849"
-         style="stroke:none;stroke-width:0.104167"
-         x="2.4864342"
-         y="2.7998848" /></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';stroke:none;stroke-width:0.104167"
+         x="2.486433"
+         y="2.8392529" /></text>
+    <flowRoot
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.249999px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="flowRoot6630"
+       xml:space="preserve"
+       transform="matrix(1.000002,0,0,1.000002,-1.1355164e-5,0.11810256)"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.249999px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         id="flowRegion6626"><rect
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.24999949px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           y="659.1496"
+           x="160.63057"
+           height="160.62993"
+           width="462.99399"
+           id="rect6624" /></flowRegion><flowPara
+         id="flowPara6628" /></flowRoot>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;line-height:1;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;text-anchor:middle;fill:#ff0000;stroke-width:0.01;stroke-linejoin:bevel;stop-color:#000000"
+       x="3.4416051"
+       y="1.760511"
+       id="text6634"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
+       inkscape:export-xdpi="101.46577"
+       inkscape:export-ydpi="101.46577"><tspan
+         sodipodi:role="line"
+         x="3.4416051"
+         y="1.760511"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';fill:#000000;stroke-width:0.01"
+         id="tspan6632">VOLTAGE PROCESSOR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:0;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:0.104167;stroke-linejoin:round;stroke-opacity:0.993004"
+       x="2.486433"
+       y="2.3274417"
+       id="text6638"><tspan
+         sodipodi:role="line"
+         id="tspan6636"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';stroke:none;stroke-width:0.104167"
+         x="2.486433"
+         y="2.3274417" /></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:0.194445px;line-height:1;font-family:Limelight;-inkscape-font-specification:'Limelight Bold';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.01;stroke-linejoin:bevel;-inkscape-stroke:none;stop-color:#000000"
+       x="3.4488173"
+       y="9.7141714"
+       id="text21395"><tspan
+         sodipodi:role="line"
+         id="tspan21393"
+         style="stroke-width:0.01"
+         x="3.4488173"
+         y="9.7141714">ARP/MFOS</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5682,8 +5758,8 @@
        inkscape:export-ydpi="101.46577"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png" />
     <circle
-       cy="6.6929135"
-       cx="2.6574802"
+       cy="6.6580992"
+       cx="2.4606302"
        id="circle4831"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
@@ -5691,8 +5767,8 @@
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577" />
     <circle
-       cy="6.6974692"
-       cx="4.2322836"
+       cy="6.6535425"
+       cx="4.4291334"
        id="circle4861"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
@@ -5842,8 +5918,8 @@
          y="4.8077078"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;stroke-width:0.0104167">OUT</tspan></text>
     <circle
-       cy="3.1541638"
-       cx="2.6574805"
+       cy="3.1496081"
+       cx="2.4606299"
        id="circle4957"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
@@ -5865,8 +5941,8 @@
          id="tspan4959"
          sodipodi:role="line">SUM A</tspan></text>
     <circle
-       cy="3.1587195"
-       cx="4.2322841"
+       cy="3.1496081"
+       cx="4.4291334"
        id="circle4963"
        style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        r="0.17716536"
@@ -5980,7 +6056,7 @@
     <text
        id="text22223"
        y="6.1811008"
-       x="2.6574805"
+       x="2.4606304"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.25px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
@@ -5988,13 +6064,13 @@
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.25px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
          y="6.1811008"
-         x="2.6574805"
+         x="2.4606304"
          id="tspan22221"
          sodipodi:role="line">SUM B</tspan></text>
     <text
        id="text22227"
        y="6.1811008"
-       x="4.2322841"
+       x="4.4291301"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.25px;line-height:0;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
@@ -6002,7 +6078,7 @@
        inkscape:export-ydpi="101.46577"><tspan
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.25px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.0104167"
          y="6.1811008"
-         x="4.2322841"
+         x="4.4291301"
          id="tspan22225"
          sodipodi:role="line">LAG</tspan></text>
     <path
@@ -6016,41 +6092,45 @@
        inkscape:export-ydpi="101.46577" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="M 3.4448783,5.9055138 3.9370092,7.4409473 V 9.448822"
+       d="m 2.9527559,5.9055119 v 1.496063 h 0.984252 l 1.3e-6,2.0472471"
        id="path22303"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
        inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-ydpi="101.46577"
+       sodipodi:nodetypes="cccc" />
     <path
        style="font-variation-settings:normal;opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       d="m 2.657477,3.1541657 c 0,0 -0.1968457,1.1765444 -0.1968457,1.1765444"
+       d="m 2.4606299,3.1496081 c 0,0 1.4e-6,1.181102 1.4e-6,1.181102"
        id="path24496"
        inkscape:path-effect="#path-effect24498"
-       inkscape:original-d="M 2.657477,3.1541657 2.4606313,4.3307101"
+       inkscape:original-d="m 2.4606299,3.1496081 1.4e-6,1.181102"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
        inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-ydpi="101.46577"
+       sodipodi:nodetypes="cc" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="m 4.2322805,3.1587213 c 0,0 -0.7873971,1.1719888 -0.7873971,1.1719888"
+       d="m 4.4291334,3.1496081 c 0,0 -0.98425,1.181102 -0.98425,1.181102"
        id="path24533"
        inkscape:path-effect="#path-effect24535"
-       inkscape:original-d="M 4.2322805,3.1587213 3.4448834,4.3307101"
+       inkscape:original-d="m 4.4291334,3.1496081 -0.98425,1.181102"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
        inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-ydpi="101.46577"
+       sodipodi:nodetypes="cc" />
     <path
        style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.03125;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
-       d="m 2.4606305,7.8740307 c 0,0 0.1968494,-1.1811223 0.1968494,-1.1811223"
+       d="m 2.4606305,7.8740307 c 0,0 -3e-7,-1.2159315 -3e-7,-1.2159315"
        id="path24549"
        inkscape:path-effect="#path-effect24551"
-       inkscape:original-d="M 2.4606305,7.8740307 2.6574799,6.6929084"
+       inkscape:original-d="m 2.4606305,7.8740307 -3e-7,-1.2159315"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
        inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-ydpi="101.46577"
+       sodipodi:nodetypes="cc" />
     <g
        id="g33479"
-       transform="translate(1.5748031,3.5433071)"
+       transform="translate(1.7716531,3.4993804)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -6076,6 +6156,62 @@
            y="3.7358894"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.194444px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;stroke-width:0.0104167">LAG TIME</tspan></text>
     </g>
+    <circle
+       r="0.17716536"
+       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2887"
+       cx="3.4448771"
+       cy="6.2992125" />
+    <circle
+       r="0.17716536"
+       style="display:inline;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.00104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2913"
+       cx="3.4448771"
+       cy="7.0009704" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:1;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.01;stroke-linejoin:bevel;-inkscape-stroke:none;stop-color:#000000"
+       x="3.4448771"
+       y="6.6141734"
+       id="text6078"><tspan
+         sodipodi:role="line"
+         id="tspan6076"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';stroke-width:0.01"
+         x="3.4448771"
+         y="6.6141734">RC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:1;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.01;stroke-linejoin:bevel;-inkscape-stroke:none;stop-color:#000000"
+       x="3.4448771"
+       y="6.1023622"
+       id="text6642"><tspan
+         sodipodi:role="line"
+         id="tspan6640"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';stroke-width:0.01"
+         x="3.4448771"
+         y="6.1023622">LINEAR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:1;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.01;stroke-linejoin:bevel;-inkscape-stroke:none;stop-color:#000000"
+       x="3.4448771"
+       y="6.8110237"
+       id="text7082"><tspan
+         sodipodi:role="line"
+         id="tspan7080"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';stroke-width:0.01"
+         x="3.4448771"
+         y="6.8110237">FAST</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;line-height:1;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;text-anchor:middle;fill:#000000;stroke-width:0.01;stroke-linejoin:bevel;-inkscape-stroke:none;stop-color:#000000"
+       x="3.4448771"
+       y="7.3228345"
+       id="text7910"><tspan
+         sodipodi:role="line"
+         id="tspan7908"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:0.138889px;font-family:'Copasetic NF';-inkscape-font-specification:'Copasetic NF Bold';stroke-width:0.01"
+         x="3.4448771"
+         y="7.3228345">SLOW</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -6318,25 +6454,25 @@
        cx="2.4606309"
        cy="8.8582735"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.4606269,8.7598481 V 8.9566986"
        id="path2553"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5590519,8.8582733 h -0.19685"
        id="path2555"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <g
        id="g2461"
        style="display:inline"
@@ -6408,25 +6544,25 @@
        cx="3.4448814"
        cy="8.8582783"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 3.4448773,8.7598526 V 8.9567031"
        id="path3292"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5433023,8.8582778 h -0.19685"
        id="path3294"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <g
        id="g6665"
        transform="translate(3.5433079,5.0433001)"
@@ -6521,9 +6657,9 @@
     <g
        id="g2598"
        transform="translate(0.99212614)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0"
@@ -6550,9 +6686,9 @@
        id="g2598-9"
        transform="translate(-1.6141731)"
        style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0-6"
@@ -6579,9 +6715,9 @@
        id="g2598-0"
        transform="translate(0.99212614,7.6377954)"
        style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0-3"
@@ -6608,9 +6744,9 @@
        id="g2598-4"
        transform="translate(-1.6141731,7.6377951)"
        style="display:inline"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513">
       <circle
          style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="circle2104-6-0-4"
@@ -6707,25 +6843,25 @@
        cx="3.4448814"
        cy="7.8740263"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.4448773,7.7756011 v 0.19685"
        id="path19218"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5433023,7.8740261 h -0.19685"
        id="path19220"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <g
        id="g3455-5"
        style="display:inline"
@@ -6868,82 +7004,82 @@
        cx="2.4606295"
        cy="7.8740263"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.4606253,7.7756011 v 0.19685"
        id="path4322"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5590503,7.8740261 h -0.19685"
        id="path4324"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4713"
        cx="4.4291334"
        cy="8.8582783"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 4.4291293,8.7598526 V 8.9567031"
        id="path4715"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 4.5275543,8.8582778 h -0.19685"
        id="path4717"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4719"
        cx="4.4291334"
        cy="7.8740263"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 4.4291293,7.7756011 v 0.19685"
        id="path4721"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 4.5275543,7.8740261 h -0.19685"
        id="path4723"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <g
        id="g4843"
        style="display:inline"
-       transform="translate(9.5472427,1.574796)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       transform="translate(9.3503927,1.5399815)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513">
       <circle
          r="0.13779527"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6964,10 +7100,10 @@
     <g
        id="g4873"
        style="display:inline"
-       transform="translate(11.122046,1.5793517)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       transform="translate(11.318896,1.535425)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513">
       <circle
          r="0.13779527"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -6991,157 +7127,157 @@
        cx="2.4606311"
        cy="5.3195238"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 2.4606272,5.2210984 V 5.4179489"
        id="path4971"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5590522,5.3195236 h -0.19685"
        id="path4973"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4975"
        cx="3.4448817"
        cy="5.3195286"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 3.4448776,5.2211029 V 5.4179534"
        id="path4977"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5433026,5.3195281 h -0.19685"
        id="path4979"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4981"
        cx="3.4448817"
        cy="4.3352766"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.4448776,4.2368514 v 0.19685"
        id="path4983"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 3.5433026,4.3352764 h -0.19685"
        id="path4985"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4987"
        cx="2.4606297"
        cy="4.3352766"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.4606256,4.2368514 v 0.19685"
        id="path4989"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2.5590506,4.3352764 h -0.19685"
        id="path4991"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4993"
        cx="4.4291339"
        cy="5.3195286"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="M 4.4291296,5.2211029 V 5.4179534"
        id="path4995"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 4.5275546,5.3195281 h -0.19685"
        id="path4997"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <circle
        style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="circle4999"
        cx="4.4291339"
        cy="4.3352766"
        r="0.19685039"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 4.4291296,4.2368514 v 0.19685"
        id="path5001"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <path
        style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 4.5275546,4.3352764 h -0.19685"
        id="path5003"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577" />
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
     <g
        id="g5011"
        style="display:inline"
-       transform="translate(9.547243,-1.9639537)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       transform="translate(9.3503925,-1.9685095)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513">
       <circle
          r="0.13779527"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -7162,10 +7298,10 @@
     <g
        id="g5019"
        style="display:inline"
-       transform="translate(11.122046,-1.959398)"
-       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
-       inkscape:export-xdpi="101.46577"
-       inkscape:export-ydpi="101.46577">
+       transform="translate(11.318895,-1.9685094)"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513">
       <circle
          r="0.13779527"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -7183,6 +7319,56 @@
          id="path5017"
          inkscape:connector-curvature="0" />
     </g>
+    <circle
+       r="0.13779527"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2893"
+       cx="3.4448771"
+       cy="6.2992125"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 3.4448727,6.2007881 V 6.3976386"
+       id="path2895"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 3.5432977,6.2992133 h -0.19685"
+       id="path2897"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
+    <circle
+       r="0.13779527"
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="circle2919"
+       cx="3.4448771"
+       cy="7.0009704"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="M 3.4448728,6.902546 V 7.0993965"
+       id="path2921"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 3.5432978,7.0009712 h -0.19685"
+       id="path2923"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel_holes.png"
+       inkscape:export-xdpi="999.94513"
+       inkscape:export-ydpi="999.94513" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -8309,7 +8495,7 @@
     <g
        style="display:inline"
        id="g4853"
-       transform="matrix(-0.62017717,0,0,0.62017717,4.1237708,2.309022)"
+       transform="matrix(-0.62017717,0,0,0.62017717,3.9269208,2.2742075)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -8339,7 +8525,7 @@
     <g
        style="display:inline"
        id="g4883"
-       transform="matrix(-0.62017717,0,0,0.62017717,5.698574,2.3135777)"
+       transform="matrix(-0.62017717,0,0,0.62017717,5.895424,2.269651)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -8645,7 +8831,7 @@
     <g
        style="display:inline"
        id="g5089"
-       transform="matrix(-0.62017717,0,0,0.62017717,4.1237711,-1.2297277)"
+       transform="matrix(-0.62017717,0,0,0.62017717,3.9269206,-1.2342835)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -8675,7 +8861,7 @@
     <g
        style="display:inline"
        id="g5099"
-       transform="matrix(-0.62017717,0,0,0.62017717,5.6985743,-1.225172)"
+       transform="matrix(-0.62017717,0,0,0.62017717,5.8954236,-1.2342834)"
        inkscape:export-filename="/home/rsholmes/Documents/Hobbies/Music/Instruments/Synths/ARP/ARP 2600/Voltage processor/Kosmo version/Images/voltproc_panel.png"
        inkscape:export-xdpi="101.46577"
        inkscape:export-ydpi="101.46577">
@@ -8701,6 +8887,54 @@
          id="path5097"
          d="M 2.3622056,6.4724214 V 6.6692718"
          style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.0312499;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       transform="matrix(1.000002,0,0,1.000002,1.8700664,0.22048295)"
+       id="g2905"
+       style="display:inline">
+      <circle
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2899"
+         cx="1.5748031"
+         cy="6.0787182"
+         r="0.15748031" />
+      <circle
+         cy="6.0787182"
+         cx="1.5748031"
+         id="circle2901"
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         r="0.11811024" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2903"
+         width="0.064111046"
+         height="0.22685447"
+         x="1.5427476"
+         y="5.8563037" />
+    </g>
+    <g
+       transform="matrix(1.000002,0,0,1.000002,1.8700665,0.92224079)"
+       id="g2931"
+       style="display:inline">
+      <circle
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="circle2925"
+         cx="1.5748031"
+         cy="6.0787182"
+         r="0.15748031" />
+      <circle
+         cy="6.0787182"
+         cx="1.5748031"
+         id="circle2927"
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         r="0.11811024" />
+      <rect
+         style="opacity:1;vector-effect:none;fill:#b3b3b3;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.0104167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2929"
+         width="0.064111046"
+         height="0.22685447"
+         x="1.5427476"
+         y="5.8563037" />
     </g>
   </g>
   <g
