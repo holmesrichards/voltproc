@@ -1266,8 +1266,8 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00005f73fa24)
     (property "Reference" "D1" (id 0) (at 76.2 167.2336 0))
-    (property "Value" "" (id 1) (at 76.2 169.545 0))
-    (property "Footprint" "" (id 2) (at 76.2 172.72 0)
+    (property "Value" "1N5817" (id 1) (at 76.2 169.545 0))
+    (property "Footprint" "ao_tht:D_DO-41_SOD81_P10.16mm_Horizontal" (id 2) (at 76.2 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 76.2 172.72 0)
@@ -1289,10 +1289,10 @@
     (property "Reference" "C1" (id 0) (at 105.8672 171.5516 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 105.8672 173.863 0)
+    (property "Value" "10uF" (id 1) (at 105.8672 173.863 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 103.8352 176.53 0)
+    (property "Footprint" "ao_tht:CP_Radial_D6.3mm_P2.50mm" (id 2) (at 103.8352 176.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 102.87 172.72 0)
@@ -1430,10 +1430,10 @@
     (property "Reference" "J1" (id 0) (at 46.99 166.4462 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Value" "" (id 1) (at 46.99 169.1386 0)
+    (property "Value" "Synth_power_2x5" (id 1) (at 46.99 169.1386 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "" (id 2) (at 46.99 177.8 0)
+    (property "Footprint" "ao_tht:Power_Header" (id 2) (at 46.99 177.8 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 46.99 177.8 0)
@@ -1461,8 +1461,8 @@
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-00006074e3b2)
     (property "Reference" "D2" (id 0) (at 76.2 177.3936 0))
-    (property "Value" "" (id 1) (at 76.2 179.705 0))
-    (property "Footprint" "" (id 2) (at 76.2 182.88 0)
+    (property "Value" "1N5817" (id 1) (at 76.2 179.705 0))
+    (property "Footprint" "ao_tht:D_DO-41_SOD81_P10.16mm_Horizontal" (id 2) (at 76.2 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 76.2 182.88 0)
@@ -1484,10 +1484,10 @@
     (property "Reference" "C2" (id 0) (at 105.8672 179.1716 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 105.8672 181.483 0)
+    (property "Value" "10uF" (id 1) (at 105.8672 181.483 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 103.8352 184.15 0)
+    (property "Footprint" "ao_tht:CP_Radial_D6.3mm_P2.50mm" (id 2) (at 103.8352 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 102.87 180.34 0)
@@ -1541,10 +1541,10 @@
     (property "Reference" "J2" (id 0) (at 83.82 64.77 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 87.63 64.77 0)
+    (property "Value" "2_pin_Molex_header" (id 1) (at 87.63 64.77 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 100.33 67.31 0)
+    (property "Footprint" "ao_tht:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" (id 2) (at 100.33 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 100.33 67.31 0)
@@ -1584,10 +1584,10 @@
     (property "Reference" "TP1" (id 0) (at 72.517 193.9095 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 72.517 196.6846 0)
+    (property "Value" "-12V" (id 1) (at 72.517 196.6846 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 76.2 198.12 0)
+    (property "Footprint" "ao_tht:TestPoint_THTPad_D1.5mm_Drill0.7mm" (id 2) (at 76.2 198.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 76.2 198.12 0)
@@ -1632,8 +1632,8 @@
     (in_bom yes) (on_board no)
     (uuid 3ffe11e7-e8ba-4ffd-a32b-19d22f055371)
     (property "Reference" "J6" (id 0) (at 109.22 72.39 0))
-    (property "Value" "" (id 1) (at 123.19 72.39 0))
-    (property "Footprint" "" (id 2) (at 115.57 74.93 0)
+    (property "Value" "2_pin_Molex_connector" (id 1) (at 123.19 72.39 0))
+    (property "Footprint" "ao_tht:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" (id 2) (at 115.57 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 115.57 74.93 0)
@@ -1669,8 +1669,8 @@
     (in_bom yes) (on_board yes)
     (uuid 60fb3aaf-d038-4fa8-9ea3-cf76bb892589)
     (property "Reference" "J7" (id 0) (at 115.57 104.14 0))
-    (property "Value" "" (id 1) (at 115.57 106.68 0))
-    (property "Footprint" "" (id 2) (at 115.57 124.46 0)
+    (property "Value" "Conn_01x13" (id 1) (at 115.57 106.68 0))
+    (property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x13_P2.54mm_Vertical" (id 2) (at 115.57 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 115.57 124.46 0)
@@ -1697,10 +1697,10 @@
     (property "Reference" "GRAF1" (id 0) (at 136.525 171.8853 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 136.525 174.4222 0)
+    (property "Value" "Holes" (id 1) (at 136.525 174.4222 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 129.54 172.72 0)
+    (property "Footprint" "voltproc:voltproc_panel_holes" (id 2) (at 129.54 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 129.54 172.72 0)
@@ -1717,8 +1717,8 @@
     (property "Reference" "J4" (id 0) (at 99.06 104.0298 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 100.33 106.68 0))
-    (property "Footprint" "" (id 2) (at 100.33 124.46 0)
+    (property "Value" "Conn_01x13" (id 1) (at 100.33 106.68 0))
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x13_P2.54mm_Vertical" (id 2) (at 100.33 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 100.33 124.46 0)
@@ -1745,10 +1745,10 @@
     (property "Reference" "TP3" (id 0) (at 114.427 193.9095 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 114.427 196.6846 0)
+    (property "Value" "GND" (id 1) (at 114.427 196.6846 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 118.11 198.12 0)
+    (property "Footprint" "ao_tht:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm" (id 2) (at 118.11 198.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 118.11 198.12 0)
@@ -1763,10 +1763,10 @@
     (property "Reference" "TP2" (id 0) (at 92.837 193.9095 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 92.837 196.6846 0)
+    (property "Value" "+12V" (id 1) (at 92.837 196.6846 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 96.52 198.12 0)
+    (property "Footprint" "ao_tht:TestPoint_THTPad_D1.5mm_Drill0.7mm" (id 2) (at 96.52 198.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 96.52 198.12 0)
@@ -1781,10 +1781,10 @@
     (property "Reference" "J3" (id 0) (at 83.82 72.39 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "" (id 1) (at 87.63 72.39 0)
+    (property "Value" "2_pin_Molex_header" (id 1) (at 87.63 72.39 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 100.33 74.93 0)
+    (property "Footprint" "ao_tht:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" (id 2) (at 100.33 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 100.33 74.93 0)
@@ -1804,8 +1804,8 @@
     (in_bom yes) (on_board no)
     (uuid ff446f54-7780-467a-88b5-d2bb7c11f74b)
     (property "Reference" "J5" (id 0) (at 109.22 64.77 0))
-    (property "Value" "" (id 1) (at 123.19 64.77 0))
-    (property "Footprint" "" (id 2) (at 115.57 67.31 0)
+    (property "Value" "2_pin_Molex_connector" (id 1) (at 123.19 64.77 0))
+    (property "Footprint" "ao_tht:Molex_KK-254_AE-6410-02A_1x02_P2.54mm_Vertical" (id 2) (at 115.57 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 115.57 67.31 0)
@@ -2042,7 +2042,7 @@
     (path "/cb875800-6d8c-4644-8531-67cc7ba15934/2aef65d0-605a-46bf-bad1-9d62dab2d188"
       (reference "#PWR012") (unit 1) (value "-12V") (footprint "")
     )
-    (path "/cb875800-6d8c-4644-8531-67cc7ba15934/31ddb026-dca1-44c7-abd8-db9d9a65d4fc"
+    (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/3415406e-dc0d-4a0e-bc80-b1ae13df4647"
       (reference "#PWR013") (unit 1) (value "GND") (footprint "")
     )
     (path "/cb875800-6d8c-4644-8531-67cc7ba15934/6128a32a-7759-4590-beb6-eaf8992a4df0"
@@ -2051,10 +2051,10 @@
     (path "/cb875800-6d8c-4644-8531-67cc7ba15934/38bd98db-8312-4cb1-bd97-a6e7d8b80446"
       (reference "#PWR015") (unit 1) (value "GND") (footprint "")
     )
-    (path "/cb875800-6d8c-4644-8531-67cc7ba15934/eac77c4f-d704-4cea-b809-bdc1c970e758"
+    (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/d241186e-2a0a-4308-b90c-19318561c5c1"
       (reference "#PWR016") (unit 1) (value "+12V") (footprint "")
     )
-    (path "/cb875800-6d8c-4644-8531-67cc7ba15934/a12e8cac-8598-4500-afee-9cac83c2a47f"
+    (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/968145ad-4be5-4b41-a677-c805464e1e79"
       (reference "#PWR017") (unit 1) (value "-12V") (footprint "")
     )
     (path "/cb875800-6d8c-4644-8531-67cc7ba15934/55183be2-f347-4188-8553-e5c5de916036"
@@ -2102,7 +2102,7 @@
     (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/7f3fa7d8-bc39-46ee-b355-829274e85c85"
       (reference "#PWR032") (unit 1) (value "GND") (footprint "")
     )
-    (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/3357bfa0-984c-4088-9bb1-569f9ef13175"
+    (path "/cb875800-6d8c-4644-8531-67cc7ba15934/40f42e07-43f3-4834-8d49-0b4ca1a0c77c"
       (reference "#PWR033") (unit 1) (value "GND") (footprint "")
     )
     (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/0bf5ca58-1a49-4e29-bb09-7d5c8fe2dfbe"
@@ -2117,10 +2117,10 @@
     (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/2cc3b8e1-b0c8-4be8-83cf-a809c9b563eb"
       (reference "#PWR037") (unit 1) (value "GND") (footprint "")
     )
-    (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/ac9e01fc-df12-450c-a157-10cc9ffbf475"
+    (path "/cb875800-6d8c-4644-8531-67cc7ba15934/1818bb33-1065-471b-8a2d-9fdea0b2e1b7"
       (reference "#PWR038") (unit 1) (value "+12V") (footprint "")
     )
-    (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/3488f496-ad51-4433-9323-3690edfe065d"
+    (path "/cb875800-6d8c-4644-8531-67cc7ba15934/f55c9e18-079d-47ac-bb48-3be7ce726273"
       (reference "#PWR039") (unit 1) (value "-12V") (footprint "")
     )
     (path "/c4e63602-163e-4a6a-a7c7-5d0a9c28a363/901abb48-bd6e-47e4-97d9-5d750837f407"
@@ -2186,10 +2186,10 @@
     (path "/cb875800-6d8c-4644-8531-67cc7ba15934/639a6f81-1b58-496e-ae1e-412e9bf459c1"
       (reference "C8") (unit 1) (value "100nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
-    (path "/cb875800-6d8c-4644-8531-67cc7ba15934/7a844004-4ccb-4bc1-9d3f-160dec1f92f5"
+    (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/7b38995c-2cf1-4790-9813-32dbe6381c9d"
       (reference "C9") (unit 1) (value "100nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
-    (path "/cb875800-6d8c-4644-8531-67cc7ba15934/c6390617-d0f6-49f9-8598-1542c5e93f04"
+    (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/f921b4a8-3d66-4012-86a4-64b811ee458c"
       (reference "C10") (unit 1) (value "100nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/19d769b5-2ef3-4fdb-a711-298b068871f5"
@@ -2204,10 +2204,10 @@
     (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/f194f189-27c6-4754-be0a-1bf36b72dcb7"
       (reference "C14") (unit 1) (value "200pF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
-    (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/13226a35-d88d-4897-966d-107a1a00a6a8"
+    (path "/cb875800-6d8c-4644-8531-67cc7ba15934/390ef2c4-cec1-4e0a-94f8-f4439182a0a0"
       (reference "C15") (unit 1) (value "100nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
-    (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/46336e81-64cb-4b97-9d21-bb89ace8316f"
+    (path "/cb875800-6d8c-4644-8531-67cc7ba15934/aa6ef614-ddf3-4857-a4a7-d7c71a884ad4"
       (reference "C16") (unit 1) (value "100nF") (footprint "ao_tht:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
     (path "/00000000-0000-0000-0000-00005f73fa24"
@@ -2405,10 +2405,10 @@
     (path "/beb27022-33ac-4698-9809-f25d7ef525da"
       (reference "TP3") (unit 1) (value "GND") (footprint "ao_tht:TestPoint_THTPad_1.5x1.5mm_Drill0.7mm")
     )
-    (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/30382428-dfb7-46de-8b84-be2482f54f10"
+    (path "/cb875800-6d8c-4644-8531-67cc7ba15934/f65cdcd8-9c23-4f2c-b70c-3aa4106609dd"
       (reference "U1") (unit 1) (value "TL074") (footprint "ao_tht:DIP-14_W7.62mm_Socket_LongPads")
     )
-    (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/a4a9f57a-9043-4fb6-9500-49493dfc064a"
+    (path "/cb875800-6d8c-4644-8531-67cc7ba15934/b3baa6a2-dac2-4249-bc78-3de9b96ff9fe"
       (reference "U1") (unit 2) (value "TL074") (footprint "ao_tht:DIP-14_W7.62mm_Socket_LongPads")
     )
     (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/066428f4-9b73-4b75-975b-942365cc84c6"
@@ -2417,7 +2417,7 @@
     (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/ff81a2d4-5bd5-46a9-994c-cd643a8cf71f"
       (reference "U1") (unit 4) (value "TL074") (footprint "ao_tht:DIP-14_W7.62mm_Socket_LongPads")
     )
-    (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/e470b235-dddc-49cf-b4ab-895068c51922"
+    (path "/cb875800-6d8c-4644-8531-67cc7ba15934/3c558f9f-0a09-4695-8d95-546cd09199c8"
       (reference "U1") (unit 5) (value "TL074") (footprint "ao_tht:DIP-14_W7.62mm_Socket_LongPads")
     )
     (path "/cb875800-6d8c-4644-8531-67cc7ba15934/f8412248-46a2-4c47-90ee-f9f3a5fd5515"
@@ -2435,13 +2435,13 @@
     (path "/cb875800-6d8c-4644-8531-67cc7ba15934/1d3b4eb2-351e-4452-b202-26ef926d2cf5"
       (reference "U2") (unit 5) (value "TL074") (footprint "ao_tht:DIP-14_W7.62mm_Socket_LongPads")
     )
-    (path "/cb875800-6d8c-4644-8531-67cc7ba15934/bb47fefc-aa91-4609-b4b1-79163653736a"
+    (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/86f1ce58-7241-4d4b-9f6d-1b2f1770aa2d"
       (reference "U3") (unit 1) (value "TL072") (footprint "ao_tht:DIP-8_W7.62mm_Socket_LongPads")
     )
-    (path "/cb875800-6d8c-4644-8531-67cc7ba15934/95ec305b-cecd-42f3-a1e4-fd5b3af471d9"
+    (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/6e582533-7036-46e8-a822-cb763608cf25"
       (reference "U3") (unit 2) (value "TL072") (footprint "ao_tht:DIP-8_W7.62mm_Socket_LongPads")
     )
-    (path "/cb875800-6d8c-4644-8531-67cc7ba15934/53fa888d-a07d-46c8-8625-99b955d91213"
+    (path "/37e25b07-cf59-45fe-844f-5417bc730cd4/ac20234f-0051-4d3e-ac91-51bdcb7108ad"
       (reference "U3") (unit 3) (value "TL072") (footprint "ao_tht:DIP-8_W7.62mm_Socket_LongPads")
     )
   )
