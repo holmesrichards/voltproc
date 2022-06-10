@@ -10,6 +10,8 @@
     (company "Rich Holmes / Analog Output")
     (comment 1 "or neighboring rights to this work. Published from United States.")
     (comment 2 "To the extent possible under law, Richard Holmes has waived all copyright and related ")
+    (comment 3 "Lag processor from MFOS design")
+    (comment 4 "From ARP 2600 schematics with updates and additions")
   )
 
   (lib_symbols
@@ -959,7 +961,7 @@
     (property "Value" "2.2uF" (id 1) (at 128.651 113.4622 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "ao_tht:C_Radial_D8.0mm_H11.5mm_P3.50mm" (id 2) (at 126.6952 115.57 0)
+    (property "Footprint" "ao_tht:C_Radial_D5.0mm_H11.0mm_P2.00mm" (id 2) (at 126.6952 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 125.73 111.76 0)
@@ -1099,7 +1101,7 @@
     (uuid 3a2382be-9cb6-4f83-b279-a848ab520644)
     (property "Reference" "C6" (id 0) (at 200.66 55.1012 90))
     (property "Value" "1uF" (id 1) (at 200.66 57.6381 90))
-    (property "Footprint" "ao_tht:C_Rect_L7.2mm_W4.5mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" (id 2) (at 204.47 59.9948 0)
+    (property "Footprint" "ao_tht:C_Rect_L7.2mm_W7.2mm_P5.00mm_FKS2_FKP2_MKS2_MKP2" (id 2) (at 204.47 59.9948 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 200.66 60.96 0)
