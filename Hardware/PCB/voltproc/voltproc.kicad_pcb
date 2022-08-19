@@ -8122,7 +8122,7 @@
   (gr_text "~{OUT1}" (at 125 85) (layer "B.SilkS") (tstamp 12d187c8-3945-41ac-b604-6604311f674b)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "VOLTAGE PROCESSOR\n7/2022 Rich Holmes CC0\nhttps://github.com/holmesrichards/voltproc" (at 83.998 137.592) (layer "B.SilkS") (tstamp 1ced3bac-2906-4c6c-b502-2f13c905328e)
+  (gr_text "VOLTAGE PROCESSOR\n7/2022 Rich Holmes CC0 1.0\nhttps://github.com/holmesrichards/voltproc" (at 83.998 137.592) (layer "B.SilkS") (tstamp 1ced3bac-2906-4c6c-b502-2f13c905328e)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text "IN_2_2" (at 75 175) (layer "B.SilkS") (tstamp 243d6432-7b5e-4041-81e3-bb6ebfc67fe1)
