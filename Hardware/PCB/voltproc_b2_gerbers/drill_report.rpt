@@ -1,0 +1,24 @@
+Drill report for voltproc_b2.kicad_pcb
+Created on Fri Sep  2 23:43:53 2022
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'voltproc_b2.drl' contains
+    plated through holes:
+    =============================================================
+    T1  1.000mm  0.0394"  (13 holes)
+    T2  1.300mm  0.0512"  (9 holes)
+    T3  2.100mm  0.0827"  (12 holes)
+
+    Total plated holes count 34
+
+
+Not plated through holes are merged with plated holes
+    unplated through holes:
+    =============================================================
+
+    Total unplated holes count 0

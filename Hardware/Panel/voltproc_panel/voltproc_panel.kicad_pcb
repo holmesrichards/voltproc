@@ -22614,6 +22614,12 @@
   (gr_text "Panel design by Rich Holmes\nCC0 1.0 7/2022\nJLCJLCJLCJLC" (at 53.6 197.6) (layer "B.SilkS") (tstamp aae6bc05-6036-4fc6-8be7-c70daf5c8932)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
+  (gr_text "IN_1_1\nCW/WIP/GND" (at 28.6 46.1) (layer "B.SilkS") (tstamp bda63c7e-3b7f-43df-92a2-ae2dbf74dc17)
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
+  (gr_text "IN_1_2\nCW/WIP/GND" (at 78.6 46.1) (layer "B.SilkS") (tstamp dd59bfa0-e956-4d8c-a95e-efc2e990c3bb)
+    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  )
 
   (zone (net 1) (net_name "GND") (layer "F.Cu") (tstamp 22c28634-55a5-4f76-9217-6b70ddd108b8) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
