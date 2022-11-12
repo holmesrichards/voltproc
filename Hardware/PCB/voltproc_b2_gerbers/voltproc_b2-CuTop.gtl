@@ -1,12 +1,12 @@
 G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,6.0.9-8da3e8f707~116~ubuntu22.04.1*
-G04 #@! TF.CreationDate,2022-11-12T09:52:39-05:00*
+G04 #@! TF.CreationDate,2022-11-12T16:46:29-05:00*
 G04 #@! TF.ProjectId,voltproc_b2,766f6c74-7072-46f6-935f-62322e6b6963,rev?*
 G04 #@! TF.SameCoordinates,Original*
 G04 #@! TF.FileFunction,Copper,L1,Top*
 G04 #@! TF.FilePolarity,Positive*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 6.0.9-8da3e8f707~116~ubuntu22.04.1) date 2022-11-12 09:52:39*
+G04 Created by KiCad (PCBNEW 6.0.9-8da3e8f707~116~ubuntu22.04.1) date 2022-11-12 16:46:29*
 %MOMM*%
 %LPD*%
 G01*
@@ -28,25 +28,6 @@ G04 #@! TA.AperFunction,Conductor*
 G04 #@! TD*
 G04 APERTURE END LIST*
 D10*
-G04 #@! TO.P,SW2,1,A*
-G04 #@! TO.N,Board_0-GND1*
-X147585000Y-107800000D03*
-G04 #@! TO.P,SW2,2,B*
-G04 #@! TO.N,Board_0-/Panel components/LIN_SPEED*
-X147585000Y-112500000D03*
-G04 #@! TO.P,SW2,3,C*
-G04 #@! TO.N,Board_0-unconnected-(SW2-Pad3)*
-X147585000Y-117200000D03*
-G04 #@! TO.P,SW2,4,A*
-G04 #@! TO.N,Board_0-GND1*
-X152415000Y-107800000D03*
-G04 #@! TO.P,SW2,5,B*
-G04 #@! TO.N,Board_0-/Panel components/RC_SPEED*
-X152415000Y-112500000D03*
-G04 #@! TO.P,SW2,6,C*
-G04 #@! TO.N,Board_0-unconnected-(SW2-Pad6)*
-X152415000Y-117200000D03*
-G04 #@! TD*
 G04 #@! TO.P,SW1,1,A*
 G04 #@! TO.N,Board_0-/Panel components/LIN_IN*
 X152415000Y-99200000D03*
@@ -67,6 +48,37 @@ G04 #@! TO.N,Board_0-/Panel components/RC_OUT*
 X147585000Y-89800000D03*
 G04 #@! TD*
 D11*
+G04 #@! TO.P,RV3,1,1*
+G04 #@! TO.N,Board_0-GND1*
+X130000000Y-87500000D03*
+G04 #@! TO.P,RV3,2,2*
+G04 #@! TO.N,Board_0-/Panel components/IN_2_1_WIP*
+X125000000Y-87500000D03*
+G04 #@! TO.P,RV3,3,3*
+G04 #@! TO.N,Board_0-/Panel components/IN_2_1_CW*
+X120000000Y-87500000D03*
+G04 #@! TD*
+D10*
+G04 #@! TO.P,SW2,1,A*
+G04 #@! TO.N,Board_0-GND1*
+X147585000Y-107800000D03*
+G04 #@! TO.P,SW2,2,B*
+G04 #@! TO.N,Board_0-/Panel components/LIN_SPEED*
+X147585000Y-112500000D03*
+G04 #@! TO.P,SW2,3,C*
+G04 #@! TO.N,Board_0-unconnected-(SW2-Pad3)*
+X147585000Y-117200000D03*
+G04 #@! TO.P,SW2,4,A*
+G04 #@! TO.N,Board_0-GND1*
+X152415000Y-107800000D03*
+G04 #@! TO.P,SW2,5,B*
+G04 #@! TO.N,Board_0-/Panel components/RC_SPEED*
+X152415000Y-112500000D03*
+G04 #@! TO.P,SW2,6,C*
+G04 #@! TO.N,Board_0-unconnected-(SW2-Pad6)*
+X152415000Y-117200000D03*
+G04 #@! TD*
+D11*
 G04 #@! TO.P,RV4,1,1*
 G04 #@! TO.N,Board_0-/Panel components/LAG_LIN_CCW*
 X180000000Y-87500000D03*
@@ -83,16 +95,6 @@ G04 #@! TO.N,Board_0-/Panel components/LAG_RC_WIP*
 X175000000Y-92500000D03*
 G04 #@! TO.P,RV4,6,6*
 X170000000Y-92500000D03*
-G04 #@! TD*
-G04 #@! TO.P,RV3,1,1*
-G04 #@! TO.N,Board_0-GND1*
-X130000000Y-87500000D03*
-G04 #@! TO.P,RV3,2,2*
-G04 #@! TO.N,Board_0-/Panel components/IN_2_1_WIP*
-X125000000Y-87500000D03*
-G04 #@! TO.P,RV3,3,3*
-G04 #@! TO.N,Board_0-/Panel components/IN_2_1_CW*
-X120000000Y-87500000D03*
 G04 #@! TD*
 D12*
 G04 #@! TO.P,J7,1,Pin_1*

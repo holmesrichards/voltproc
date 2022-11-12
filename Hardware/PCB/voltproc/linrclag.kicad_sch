@@ -897,7 +897,7 @@
   )
 
   (text "Linear and RC lag processor based on\nMFOS MFM by Ray Wilson"
-    (at 74.93 85.09 0)
+    (at 74.93 85.09 180)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 3e57259c-58a5-4792-b6bf-992024ad53e3)
   )
