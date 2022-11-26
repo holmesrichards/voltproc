@@ -36,6 +36,7 @@ The lag processor is based on a section of the MFOS Multi Function Module. Diffe
 * PCB layout: [front](Docs/voltproc_layout_front.pdf), [back](Docs/voltproc_layout_back.pdf)
 * [BOM](Docs/voltproc_bom.md)
 * [Build notes](Docs/build.md)
+* [Blog post](https://analogoutputblog.wordpress.com/2022/11/26/processing-voltages/)
 
 ## GitHub repository
 
