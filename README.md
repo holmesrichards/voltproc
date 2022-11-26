@@ -1,36 +1,40 @@
 # Voltage processor
 
-This is a work in progress; better README to come soon. Meanwhile:
+This is a voltage processor module based on designs by ARP and MFOS.
 
-**Untested hardware and software — Do not assume anything works!**
+There are two sum sections: One has four inputs, two with attenuators (normaled to -10 V and +10 V) and two with fixed untiy gain; the other has two inputs, one with attenuator (normaled to +10 V) and one with fixed unity gain. Each sum has two outputs, normal and inverted.
 
-This is a voltage processor module based on the ARP 2600 schematics.
+There also is a lag processor section. Switches allow selection of slow or fast ranges and RC or linear ramping, and a knob adjusts the lag time.
 
-Differences:
+The sum sections are derived from the ARP 2600 schematics. Differences:
 
-* Obviously, this is a module, so has no normal connections to other synth components.
-* Added second inverting stages for normal plus inverted outputs
-* Eurorack style ±12 V power section
-* TL07x op amps in place of LM301
-* Added bypass caps
-* Added series output resistors
+* Obviously, this is a module, so there is no normal connection to keyboard CV; instead the second input of the first sum is normaled to +10 V.
+* Added second inverting stages for normal plus inverted outputs.
+* TL07x op amps in place of LM301.
+* Added series output resistors.
+
+The lag processor is based on a section of the MFOS Multi Function Module. Differences:
+
+* Common input and output for both linear and RC circuits.
+* Shorter minimum linear lag time.
+* 1k series resistors on outputs.
 
 
 ## Current draw
- mA +12 V,  mA -12 V
+20 mA +12 V, 20 mA -12 V
 
 
 ## Photos
 
-![]()
+![voltproc_front](Images/voltproc_front.jpg)
 
-![]()
+![voltproc_front](Images/voltproc_back.jpg)
 
 ## Documentation
 
-* [Schematic](Docs/.pdf)
-* PCB layout: [front](Docs/_layout_front.pdf), [back](Docs/_layout_back.pdf)
-* [BOM](Docs/_bom.md)
+* [Schematic](Docs/voltproc.pdf)
+* PCB layout: [front](Docs/voltproc_layout_front.pdf), [back](Docs/voltproc_layout_back.pdf)
+* [BOM](Docs/voltproc_bom.md)
 * [Build notes](Docs/build.md)
 
 ## GitHub repository
