@@ -2,7 +2,7 @@
 
 This is a voltage processor module based on designs by ARP and MFOS.
 
-There are two sum sections: One has four inputs, two with attenuators (normaled to -10 V and +10 V) and two with fixed untiy gain; the other has two inputs, one with attenuator (normaled to +10 V) and one with fixed unity gain. Each sum has two outputs, normal and inverted.
+There are two sum sections: One has four inputs, two with attenuators (normaled to -10 V and +10 V) and two with fixed unity gain; the other has two inputs, one with attenuator (normaled to +10 V) and one with fixed unity gain. Each sum has two outputs, normal and inverted.
 
 There also is a lag processor section. Switches allow selection of slow or fast ranges and RC or linear ramping, and a knob adjusts the lag time.
 
